@@ -10,8 +10,3 @@ Annual Income: Annual Income reflCreated the Date Table
 The objective of a bank loan Power BI report is to provide insights into a bank's loan portfolio performance and lending activities. 
 The report can help banks make data-driven decisions, identify trends, and improve their credit and loan offerings.
 Support strategic decision-making: Enhance the bank's credit and loan offerings to meet market demands and customer needs.
-
-
-
-
-
