@@ -6,7 +6,12 @@ It consists of the following columns: Emp_id,  State, Home_Ownership,Issue_Date
 Person’s Income: A higher income increases the likelihood of receiving a loan.
 Regional Area: Living place increase trust level to provide loan.
 Employment Status: Employed person has good chance to loan approval.
-Annual Income: Annual Income reflCreated the Date Table:
+Annual Income: Annual Income reflCreated the Date Table
+The objective of a bank loan Power BI report is to provide insights into a bank's loan portfolio performance and lending activities. 
+The report can help banks make data-driven decisions, identify trends, and improve their credit and loan offerings.
+Support strategic decision-making: Enhance the bank's credit and loan offerings to meet market demands and customer needs.
+
+
 
 
 
